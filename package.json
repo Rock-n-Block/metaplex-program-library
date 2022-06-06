@@ -20,6 +20,7 @@
     "token-entangler/js",
     "auction/js",
     "auctioneer/js",
+    "marketplace/js",
     "metaplex/js",
     "auction-house/js",
     "gumdrop/js",
